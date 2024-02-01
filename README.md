@@ -22,10 +22,10 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-https://www.loom.com/share/7d0d60a7e874404699c1e3286311d57f?sid=d7ef92ca-0f63-437f-8c2d-a06eff011fb0
+https://i.imgur.com/65fXxXL.gifv
 
 
-Video created with Loom 
+Gif created with Kap 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
