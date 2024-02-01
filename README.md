@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 https://www.loom.com/share/7d0d60a7e874404699c1e3286311d57f?sid=d7ef92ca-0f63-437f-8c2d-a06eff011fb0
 
-<!-- Replace this with whatever GIF tool you used! -->
+
 Video created with Loom 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
